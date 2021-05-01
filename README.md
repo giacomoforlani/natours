@@ -12,7 +12,7 @@ This project is made only with CSS.
 
 ### Reference
 
-Click [here](https://natours-self.vercel.app/) to navigate the project.
+Click [here](https://giacomoforlani-natours.vercel.app/) to navigate the project.
 
 ---
 
